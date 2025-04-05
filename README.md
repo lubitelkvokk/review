@@ -23,11 +23,11 @@
 
 - **Ссылка на репозиторий**: [interpolation_fp](https://github.com/lubitelkvokk/fp_lab3)
 
-- - **Используемые технологии**:
-  - Erlang
-  - Rebar3
-  - Actor model
- 
+-  **Используемые технологии**:
+    - Erlang
+    - Rebar3
+    - Actor model
+- **Описание**: Разработка потокового интерполятора с поддержкой CLI, вводом/выводом через STDIO и функциональной архитектурой.
 
 ## 3. Video Stream RTSP
 
