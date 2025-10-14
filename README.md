@@ -13,7 +13,7 @@
 
 Telegram: ```@lubitelkvokk```
 
-## 1. FP RTSP Server
+## 1. FP RTSP Server (Erlang)
 
 - **Ссылка на репозиторий**: [fp_rtsp_server](https://github.com/lubitelkvokk/fp_rtsp_server)
 
