@@ -59,6 +59,16 @@ Telegram: ```@lubitelkvokk```
 - **Описание**: Приложение на Java для передачи предварительно сохраненных данных из дампа сетевых пакетов, содержащих видео- и аудиопотоки, по протоколу RTSP с последующим воспроизведением в медиаплеере VLC.
 
 ## C/Asm 
+### Device mapper target (driver linux)
+
+- **Ссылка на репозиторий**: [device_mapper_target](https://github.com/lubitelkvokk/device_mapper_target)
+
+- **Используемые технологии**:
+  - Язык программирования: C
+  - Системное программирование
+
+- **Описание**: Репозиторий содержит драйвер взаимодействия с виртуальным блочным устройством (сбор статистики)
+
 ### ITMO System Software
 
 - **Ссылка на репозиторий**: [itmo_system_software](https://github.com/lubitelkvokk/itmo_system_software)
