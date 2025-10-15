@@ -107,7 +107,16 @@ Telegram: ```@lubitelkvokk```
 
 - **Описание**: Лабораторная работа по разработке веб-приложения с использованием Spring Boot, включающая реализацию RESTful сервисов и взаимодействие с базой данных.
 
+### Selenium Testing
 
+- **Ссылка на репозиторий**: [software-testing-lab3](https://github.com/lubitelkvokk/software-testing-lab3)
+
+- **Используемые технологии**:
+  - Язык программирования: Java
+  - Библиотека тестирования: Selenium
+  - Применяемые подходы: Page Object
+
+- **Описание**: Лабораторная работа по функциональному тестированию сайта spb.superjob.ru с помощью Selenium.
 ### Proga Lab 8
 
 - **Ссылка на репозиторий**: [proga-lab8](https://github.com/lubitelkvokk/proga-lab8)
