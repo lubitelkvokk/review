@@ -59,6 +59,15 @@ Telegram: ```@lubitelkvokk```
 - **Описание**: Приложение на Java для передачи предварительно сохраненных данных из дампа сетевых пакетов, содержащих видео- и аудиопотоки, по протоколу RTSP с последующим воспроизведением в медиаплеере VLC.
 
 ## C/Asm 
+### Thread Sanitizer
+- **Ссылка на репозиторий**: [thread_sanitizer](https://github.com/lubitelkvokk/thread_sanitizer)
+
+- **Используемые технологии**:
+  - Язык программирования: C
+  - Системное программирование
+
+- **Описание**: Репозиторий содержит библиотеку, которая позволяет обнаруживать дедлоки в рантайме.
+
 ### Device mapper target (driver linux)
 
 - **Ссылка на репозиторий**: [device_mapper_target](https://github.com/lubitelkvokk/device_mapper_target)
