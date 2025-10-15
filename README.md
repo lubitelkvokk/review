@@ -13,7 +13,8 @@
 
 Telegram: ```@lubitelkvokk```
 
-## 1. FP RTSP Server (Erlang)
+## Erlang
+### FP RTSP Server
 
 - **Ссылка на репозиторий**: [fp_rtsp_server](https://github.com/lubitelkvokk/fp_rtsp_server)
 
@@ -25,7 +26,7 @@ Telegram: ```@lubitelkvokk```
 
 - **Описание**: Реализация RTSP-сервера на Erlang с использованием OTP, предназначенная для потоковой передачи мультимедийных данных клиентам, поддерживающим RTSP, таким как VLC media player.
 
-## 2. Потоковая интерполяция на Erlang
+### Потоковая интерполяция
 
 - **Ссылка на репозиторий**: [interpolation_fp](https://github.com/lubitelkvokk/fp_lab3)
 
@@ -35,7 +36,7 @@ Telegram: ```@lubitelkvokk```
     - Actor model
 - **Описание**: Разработка потокового интерполятора с поддержкой CLI, вводом/выводом через STDIO и функциональной архитектурой.
 
-## 3. Binary Tree Dict на Erlang
+### Binary Tree Dict
 
 - **Ссылка на репозиторий**: [btd_erlang](https://github.com/lubitelkvokk/fp_lab2)
 
@@ -43,8 +44,8 @@ Telegram: ```@lubitelkvokk```
     - Erlang
     - Rebar3
 - **Описание**: Разработка неизменямой структуры Binary Tree Dict (дополнительная балансировка) на языке Erlang.
-- 
-## 4. Video Stream RTSP
+
+### Video Stream RTSP
 
 - **Ссылка на репозиторий**: [video_stream_rtsp](https://github.com/lubitelkvokk/video_stream_rtsp)
 
@@ -57,7 +58,8 @@ Telegram: ```@lubitelkvokk```
 
 - **Описание**: Приложение на Java для передачи предварительно сохраненных данных из дампа сетевых пакетов, содержащих видео- и аудиопотоки, по протоколу RTSP с последующим воспроизведением в медиаплеере VLC.
 
-## 5. ITMO System Software
+## C/Asm 
+### ITMO System Software
 
 - **Ссылка на репозиторий**: [itmo_system_software](https://github.com/lubitelkvokk/itmo_system_software)
 
@@ -67,30 +69,22 @@ Telegram: ```@lubitelkvokk```
 
 - **Описание**: Репозиторий содержит лабораторные работы и проекты, связанные с системным программным обеспечением, выполненные в рамках курса ИТМО.
 
-## 6. IS Coursework
+### Assignment 1: IO Library
 
-- **Ссылка на репозиторий**: [IS_coursework](https://github.com/lubitelkvokk/IS_coursework)
+- **Ссылка на репозиторий**: [assignment-1-io-library](https://github.com/lubitelkvokk/assignment-1-io-library)
 
-- **Используемые технологии**:
-  - Frontend: React, Redux, React Router, Axios
-  - Backend: Spring Boot, Spring Security, JPA (Hibernate)
-  - База данных: PostgreSQL
-  - Миграции: Flyway
+### OS Course
 
-- **Описание**: Информационная система для управления общежитием, включающая функционал для администраторов и студентов, реализованная с использованием стека React и Spring Boot.
-
-## 7. ML Service
-
-- **Ссылка на репозиторий**: [ml_service](https://github.com/lubitelkvokk/ml_service)
+- **Ссылка на репозиторий**: [os-course](https://github.com/lubitelkvokk/os-course)
 
 - **Используемые технологии**:
-  - Язык программирования: Python
-  - Фреймворки: FastAPI
-  - Машинное обучение: scikit-learn, TensorFlow
+  - Язык программирования: C
+  - Системное программирование
 
-- **Описание**: Веб-сервис на Python с использованием FastAPI для предоставления API машинного обучения, позволяющий делать предсказания на основе обученных моделей.
+- **Описание**: Репозиторий для курса операционных систем ИТМО, содержащий лабораторные работы и проекты, связанные с разработкой компонентов ОС xv6.
 
-## 8. Web Lab 3
+## Java
+### Web Lab 3
 
 - **Ссылка на репозиторий**: [web-lab-3](https://github.com/lubitelkvokk/web-lab-3)
 
@@ -103,26 +97,7 @@ Telegram: ```@lubitelkvokk```
 
 - **Описание**: Веб-приложение на базе JSF для проверки попадания точки в заданную область на координатной плоскости, с использованием PrimeFaces и ICEfaces для интерфейса.
 
-## 9. CSA Lab 3
-
-- **Ссылка на репозиторий**: [csa_lab3](https://github.com/lubitelkvokk/csa_lab3)
-
-- **Используемые технологии**:
-  - Язык программирования: Python
-
-- **Описание**: Лабораторная работа по архитектуре вычислительных систем, включающая разработку ассемблерного языка и симулятора для гипотетического процессора.
-
-## 10. OS Course
-
-- **Ссылка на репозиторий**: [os-course](https://github.com/lubitelkvokk/os-course)
-
-- **Используемые технологии**:
-  - Язык программирования: C
-  - Системное программирование
-
-- **Описание**: Репозиторий для курса операционных систем ИТМО, содержащий лабораторные работы и проекты, связанные с разработкой компонентов ОС xv6.
-
-## 11. Web App Lab 4
+### Web App Lab 4
 
 - **Ссылка на репозиторий**: [web-app-lab-4](https://github.com/lubitelkvokk/web-app-lab-4)
 
@@ -132,7 +107,8 @@ Telegram: ```@lubitelkvokk```
 
 - **Описание**: Лабораторная работа по разработке веб-приложения с использованием Spring Boot, включающая реализацию RESTful сервисов и взаимодействие с базой данных.
 
-## 12. Proga Lab 8
+
+### Proga Lab 8
 
 - **Ссылка на репозиторий**: [proga-lab8](https://github.com/lubitelkvokk/proga-lab8)
 
@@ -141,9 +117,41 @@ Telegram: ```@lubitelkvokk```
 
 - **Описание**: Лабораторная работа по программированию, включающая разработку консольного приложения на Java с использованием объектно-ориентированных подходов.
 
-## 13. Assignment 1: IO Library
+### IS Coursework
 
-- **Ссылка на репозиторий**: [assignment-1-io-library](https://github.com/lubitelkvokk/assignment-1-io-library)
+- **Ссылка на репозиторий**: [IS_coursework](https://github.com/lubitelkvokk/IS_coursework)
+
+- **Используемые технологии**:
+  - Frontend: React, Redux, React Router, Axios
+  - Backend: Spring Boot, Spring Security, JPA (Hibernate)
+  - База данных: PostgreSQL
+  - Миграции: Flyway
+
+- **Описание**: Информационная система для управления общежитием, включающая функционал для администраторов и студентов, реализованная с использованием стека React и Spring Boot.
+
+## Python
+### ML Service
+
+- **Ссылка на репозиторий**: [ml_service](https://github.com/lubitelkvokk/ml_service)
+
+- **Используемые технологии**:
+  - Язык программирования: Python
+  - Фреймворки: FastAPI
+  - Машинное обучение: scikit-learn, TensorFlow
+
+- **Описание**: Веб-сервис на Python с использованием FastAPI для предоставления API машинного обучения, позволяющий делать предсказания диабета на основе обученных моделей.
+
+
+## Computer Architecture
+### CSA Lab 3
+
+- **Ссылка на репозиторий**: [csa_lab3](https://github.com/lubitelkvokk/csa_lab3)
+
+- **Используемые технологии**:
+  - Язык программирования: Python
+
+- **Описание**: Лабораторная работа по архитектуре вычислительных систем, включающая разработку ассемблерного языка и симулятора для гипотетического процессора.
+
 
 - **Используемые технологии**:
   - Язык программирования: Assembly (Assembler)
